@@ -1,0 +1,124 @@
+body{
+	font-family: 'Maven Pro';
+	background-image: url("../images/background.png");
+	margin: 0;
+	padding:0;
+	width: 100%;
+	font-size: 1em;
+	min-width: 1200px;
+	}
+
+.general-wrapper{
+	width: 100%;
+	padding-top: 35px;
+	display: table;   /* TABLE DISPLAY ??? */
+	}
+
+.content-wrapper{
+    margin-top:130px;
+    width:100%;
+}
+
+/* CONTENT */
+.left-info{
+    width:30%;
+    background-color:#BCE7FB;
+    color: #6D6F71;
+    display: table-cell;;
+    vertical-align: top;
+}
+.left-info h1 {
+    font-weight:normal;
+}
+
+.left-info > * {
+    padding-left:15%;
+}
+
+.right-info {
+	display:table-cell;;
+	width: 69%;
+}
+.right-info img{width: 100%;}
+
+/* MENU */
+.menu {
+	width: 100%;
+    min-width:1200px;
+	display: block;
+	text-transform: uppercase;
+	background-image: url("../images/menu-background.png");
+	background-position: left center;
+	background-repeat: repeat-x;
+	background-size:2px;
+	font-weight:bold;
+	text-align: center;
+    position:absolute;
+    z-index:10;
+	}
+.menu a {
+	text-decoration: none;
+	color:#fff;
+	}
+.menu-second {
+	width: 200px !important;
+	display: inline-block;
+	}
+.menu-second img {
+	width: 100%;
+	vertical-align: middle;
+	}
+.menu-first-wrapper, .menu-third-wrapper{
+	width: 41%;
+	min-width: 490px;
+	display: inline-block;
+	}
+.menu-first, .menu-third {
+	width: 100%;
+	}
+.menu-first a, .menu-third a {
+	display: inline-block;
+	width: 30%;
+	min-width: 150px;
+	}
+
+.menu2 .menu .menu2 a,
+.menu3 .menu .menu3 a,
+.menu4 .menu .menu4 a,
+.menu5 .menu .menu5 a,
+.menu6 .menu .menu6 a,
+.menu7 .menu .menu7 a,
+.menu a:hover {font-weight: bold;}
+
+/* FOOTER */
+.footer {
+	text-align: center;
+	background-color: #FFF;
+	width: 100%;
+	}
+.footer-info{
+	background-image: url("../images/menu-background-flipped.png");
+	background-repeat: repeat-x;
+	background-position: left center;
+	background-size:2px;
+	color:#fff;
+	text-transform: uppercase;
+	font-weight: bold;
+	}
+.footer-info p {
+	display: inline-block;
+	padding:5px 0;
+	}
+.footer-info p:first-child{
+	color:#BCE7FB;
+}
+.footer-contact{
+	color: #6D6F71;
+	padding:0 10px;
+}
+.footer-contact > p:first-child{
+	padding-top: 15px;
+}
+.footer-contact > p:last-child{
+	padding-bottom: 25px;
+}

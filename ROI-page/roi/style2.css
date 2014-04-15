@@ -1,0 +1,17 @@
+
+					/* SLIDER */
+.wrapper-slider{border-bottom:5px solid;width: 100%;}
+.slide-container {margin: 0 auto;min-width: 60%;width: 960px;}
+ul.bjqs{position:relative; list-style:none;padding:0;margin:0;overflow:hidden; display:none;}
+li.bjqs-slide{position:absolute; display:none;}
+ul.bjqs-controls{list-style:none;margin:0;padding:0;z-index:9999;display:none;} /* CONTROL NONE AICI */
+ul.bjqs-controls.v-centered li a{position:absolute;}
+ul.bjqs-controls.v-centered li.bjqs-next a{right:40%;}
+ul.bjqs-controls.v-centered li.bjqs-prev a{left:40%;}
+ol.bjqs-markers{list-style: none; padding: 0; margin: 0; width:100%;}
+ol.bjqs-markers.h-centered{text-align: center;}
+ol.bjqs-markers li{display:inline;}
+ol.bjqs-markers li a{display:inline-block;}
+p.bjqs-caption{display:block;width:20%;margin:0;padding:4%;padding-left:5%;position:absolute;top:30%;right: 0;background-color: #000;opacity: 0.9;font-size: 0.9em;line-height: 18px;background-image: url("images/caption-arrow.png");background-repeat: no-repeat;background-position: center left;}
+.bjqs-markers {display: none;}
+/* OTHERS */64%}

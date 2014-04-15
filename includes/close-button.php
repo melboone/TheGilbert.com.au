@@ -1,0 +1,1 @@
+<div class="close-button"><a href="/" title="Go to home page"">X</a></div>

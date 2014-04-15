@@ -1,0 +1,10 @@
+<?php exit(); /* For security reason. To avoid public user downloading below data! */?>
+"RecordID"	"Date"	"IP"	"First Name"	"Last Name"	"Phone"	"Email"	"Postcode"	"I am interested in"	"How did you find about us"
+"20131015-6d59"	"2013-10-15 03:35:29"	"103.12.9.55"	"asdsa"	"sadsa"	"21341"	"sad@asd.com"	"123"	"1 Bedroom"	"The Age"
+"20131015-363a"	"2013-10-15 04:43:00"	"103.12.9.55"	"asdas"	"sada"	"123"	"asda@ads.com"	"3123"	"1 Bedroom"	"test"
+"20131015-06c1"	"2013-10-15 05:30:54"	"103.12.9.55"	"asd"	"sada"	"sada"	"sada@asd.com"	"2131"	"1 Bedroom"	"Domain.com.au"
+"20131015-fd7a"	"2013-10-15 06:44:43"	"103.12.9.55"	"asdas"	"asda"	"as123"	"asda@ads.com"	"13"	"1 Bedroom\nPenthouse"	"Domain.com.au"
+"20131015-ed1c"	"2013-10-15 08:56:11"	"103.12.9.55"	"te"	"sa"	"123"	"asda@ads.com"	"2131"	"2 Bedroom"	"Herald Sun"
+"20131017-3a14"	"2013-10-17 13:31:04"	"203.166.230.253"	"hgf"	"gfcv"	"hgv"	"hgfd@ghh.com"	"fgh"	"2 Bedroom\nPenthouse"	"Google"
+"20131018-926d"	"2013-10-18 01:33:25"	"203.166.230.253"	"Name"	"Last name"	"Phone"	"Email@asda.com"	"312"	"2 Bedroom"	"Google"
+"20131018-ca17"	"2013-10-18 01:52:56"	"203.166.230.253"	"asda"	"asdas"	"12312321"	"asd@asd.com"	"123"	"1 Bedroom"	"Domain.com.au"
